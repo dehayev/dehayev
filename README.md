@@ -1,7 +1,4 @@
-### Hello 
-<br> 
-
-
+### Hello <br> 
 ### I am  _ahmaad al dehayev_
 ---
 
