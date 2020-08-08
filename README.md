@@ -16,7 +16,7 @@
 <br />
 
 ---
-<img align="left" alt="dehayev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dehayev&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dehayev&show_icons=true&hide_border=true" />
 
 
 [instagram]: https://instagram.com/dehayev
