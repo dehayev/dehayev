@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello 
+<br> 
+### I am  _ahmaad al dehayev_
+---
 
-<!--
-**dehayev/dehayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Noob 😅
+---
+- I am currently trying to figure things out 😓
+- I am learning python
+-  and looking for better resources to learn
+---
 
-Here are some ideas to get you started:
+### Connect with me:
+[<img align="left" alt="dehayev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+<img align="left" alt="dehayev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dehayev&show_icons=true&hide_border=true" />
+
+
+[instagram]: https://instagram.com/dehayev
+[facebook]: https://www.facebook.com/dehayev.me/
