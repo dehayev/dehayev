@@ -21,3 +21,10 @@
 
 [instagram]: https://instagram.com/dehayev
 [facebook]: https://www.facebook.com/dehayev.me/
+
+<details>
+  <summary>:zap:Stats</summary>
+
+  <img align="left" alt="stats of dehayev" src="https://github-readme-stats.codestackr.vercel.app/api?username=dehayev&show_icons=true&hide_border=true" />
+
+</details>
